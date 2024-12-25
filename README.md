@@ -1,7 +1,3 @@
-Here’s a refined version of the `README.md` without the repository structure section:
-
----
-
 # 🎄 Advent of Code 2024: Solutions and Inputs 🎄
 
 Welcome to my repository for **Advent of Code 2024**! This repository contains my solutions for all 25 days of the Advent of Code challenge, along with the input files provided for each day.  
